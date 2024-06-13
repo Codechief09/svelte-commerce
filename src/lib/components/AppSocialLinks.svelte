@@ -4,17 +4,10 @@
 
   export const socialLinks = [
     {
-      name: 'upwork',
-      title: 'Upwork',
-      description: 'Hire me on Upwork',
-      href: 'https://upwork.com/freelancers/~016621b11e28c78a5f',
-      icon: 'bx:bxl-upwork',
-    },
-    {
       name: 'github',
       title: 'Github',
       description: 'Star and Follow me on GitHub',
-      href: 'https://github.com/furqanramzan',
+      href: 'https://github.com/Codechief09/svelte-commerce/',
       icon: 'mdi:github',
     },
   ];

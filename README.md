@@ -1,4 +1,4 @@
-# SvelteKit E-commerce - [Live Demo](https://sveltekit-ecommerce-furqanramzan.vercel.app)
+# SvelteKit E-commerce - [Live Demo](https://sveltekit-ecommerce-livelink.vercel.app)
 
 ## Setup
 
